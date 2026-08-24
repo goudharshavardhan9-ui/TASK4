@@ -17,8 +17,5 @@ Web Development Internship at SkillCraft Technology.
 ## Tech Stack
 HTML5 • CSS3 • JavaScript
 
-## Run Locally
-Open `index.html` in a browser, or use VS Code Live Server.
-
-## Deployment
-Deploy this folder to Vercel, Netlify, or GitHub Pages to get a public live URL.
+## Live demo
+https://task04todowebappfixed.vercel.app/
